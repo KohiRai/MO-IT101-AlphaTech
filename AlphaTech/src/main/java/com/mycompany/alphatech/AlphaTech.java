@@ -9,6 +9,7 @@ public class AlphaTech {
         
          Scanner sc = new Scanner(System.in);//creates a new scanner for user input. sc will be used when need for user input
               
+        System.out.println("Employee ID Registered: 001 and 002");
         System.out.print("Enter Employee ID: ");//Prints "Enter Employee ID" and doesn't go to next line
        String EmID = sc.nextLine();//User Input for Employee ID
         
