@@ -1,6 +1,7 @@
 Hi Groupmates and MMDC students!
 
-To access the file please download the Netbeans Project folder called "AlphaTech" 
+To access the file please download the Netbeans Project folder called "AlphaTech" or "AlphaTechFinal" 
+Note: The "AlphaTech" File is the initial code and "AlphaTechFinal"
 
 To access the code and run it:
 1. Please download the folder
@@ -8,7 +9,7 @@ To access the code and run it:
 3. Open Apache Netbeans
 4. Press File -> Open Project -> Press AlphaTech -> Open Project
 5. On the left panel 'Projects'
-6. Press AlphaTech.java
+6. Press AlphaTech.java or AlphaTechFinal.java
 7. You can now view the code and run it
 
 To run the code on command prompt:
@@ -16,6 +17,6 @@ To run the code on command prompt:
 2. Open AlphaTech -> src -> main -> java -> com -> mycompany -> alphatech
 3. On the folder tab you will see 'AlphaTech > src > main > java > com > mycompany > alphatech' Try to press until you can type
 4. Type CMD
-5. Type on Command Prompt "javac AlphaTech.java" then enter
-6. Type on Command Prompt "java AlphaTech.java" then enter
+5. Type on Command Prompt "javac AlphaTech.java" or "javac AlphaTechFinal.java" then enter
+6. Type on Command Prompt "java AlphaTech.java" or "java AlphaTechFinal.java" then enter
 7. You can now run the code and input EmployeeID. Now you can access the Salary Calculator and Employee Details code we made 
