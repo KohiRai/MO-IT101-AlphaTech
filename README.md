@@ -1,6 +1,7 @@
 Hi Groupmates and MMDC students!
 
 To access the file please download the Netbeans Project folder called "AlphaTech" or "AlphaTechFinal" 
+
 Note: The "AlphaTech" File is the initial code and "AlphaTechFinal"
 
 To access the code and run it:
