@@ -13,6 +13,15 @@ To access the code and run it:
 6. Press AlphaTech.java or AlphaTechFinal.java
 7. You can now view the code and run it
 
+or
+
+1. Open Netbeans
+2. Press Team on the Top Panel
+3. Team -> Git -> Clone
+4. Then Insert the Repository URL: "https://github.com/KohiRai/MO-IT101-AlphaTech.git"
+5. Press Next, Select Main Remote Branch, Press Next again
+6. Press Finish, now you can access the code and run it
+
 To run the code on command prompt:
 1. After downloading the folder
 2. Open AlphaTech -> src -> main -> java -> com -> mycompany -> alphatech
