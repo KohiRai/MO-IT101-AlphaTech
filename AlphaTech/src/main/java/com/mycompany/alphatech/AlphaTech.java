@@ -95,7 +95,7 @@ public class AlphaTech {
         
         else if("002".equals(EmID)){//If else statement. This code will run if employee ID asked that the user inputs is "002"
             System.out.println("Employee Name: Manny Pacquiao");
-            System.out.println("Employee ID: 001");
+            System.out.println("Employee ID: 002");
             System.out.println("Gender: Male");
             System.out.println("Birthday: December 17, 1978");
             
